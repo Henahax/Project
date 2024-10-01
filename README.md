@@ -1,7 +1,7 @@
 # Project Ideas
 
-## Technologies
+## Experimental Tech Stack
 
 - Deno 2
 - Sveltekit, Svelte 5
-- Tailwind 4 Alpha
+- Tailwind 4
